@@ -131,7 +131,7 @@
     
     _backgroundColor = [UIColor whiteColor];
     self.opaque = NO;
-    _selectionIndicatorColor = [UIColor colorWithRed:52.0f/255.0f green:181.0f/255.0f blue:229.0f/255.0f alpha:1.0f];
+    _selectionIndicatorColor = [UIColor colorWithRed:249.0f/255.0f green:249.0f/255.0f blue:249.0f/255.0f alpha:1.0f];
     _selectionIndicatorBoxColor = _selectionIndicatorColor;
 
     self.selectedSegmentIndex = 0;
